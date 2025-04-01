@@ -1,12 +1,12 @@
-# Winter holidays
+# How to Play
+- Use the arrow keys to maneuver your hand out of the way.
 
-## How to play
--use arrows to move the snowman left and right
+## Installation
 
-
-## How to install
 ### Windows
--pip install pygame
+Open Command Prompt and run the following:
+
 
 ### Mac
--pip3 install pygame
+Open Terminal and run the following:
+
