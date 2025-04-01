@@ -8,7 +8,7 @@ Open Command Prompt and run the following:
 ```sh
 pip install pygame
 
-
+```sh
 ### Mac
 Open Terminal and run the following:
 pip3 install pygame
