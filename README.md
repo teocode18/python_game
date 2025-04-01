@@ -5,6 +5,7 @@
 
 ### Windows
 Open Command Prompt and run the following:
+```sh
 pip install pygame
 
 
