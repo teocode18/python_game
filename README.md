@@ -1,5 +1,5 @@
 # How to Play
-- Use the arrow keys to maneuver your hand out of the way.
+Use the arrow keys to maneuver your hand out of the way.
 
 ## Installation
 
