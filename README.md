@@ -1,5 +1,5 @@
 # About
-This Python game, built with Pygame, is a holiday-themed arcade game where the player controls a penguin to catch presents and avoid falling hazards (like rocks). It features background music, sound effects, scoring, and a lives system with heart icons to show remaining lives.
+This Python game, built with Pygame, is a holiday-themed arcade game where the player controls a snowman to catch presents and avoid falling hazards. It features background music, sound effects, scoring, and a lives system with heart icons to show remaining lives.
 
 
 # How to Play
