@@ -1,6 +1,8 @@
 # About
 This Python game, built with Pygame, is a holiday-themed arcade game where the player controls a snowman to catch presents and avoid falling hazards. It features background music, sound effects, scoring, and a lives system with heart icons to show remaining lives.
 
+inspiration from youtuber "https://www.youtube.com/@Goodgis"
+
 
 # How to Play
 Use the arrow keys to maneuver the snowman
